@@ -1,1 +1,0 @@
-(()=>{"use strict";document.querySelector("#app").innerHTML='\n    <div class="test">\n        <h2>ESTO ES UNA PRUEBA</h2>\n        <h3> prueba </h3>\n        <button id="btnClick"></button>\n    </div>\n',function(n){let t=0;n.addEventListener("click",(()=>{var e;e=++t,t=e,n.innerHTML=t}))}(document.querySelector("#btnClick"))})();
